@@ -1,0 +1,32 @@
+#login-head {
+    margin: 3rem 0;
+    background-color: $bg-color;
+    .account-head {
+        padding: 4rem 0;
+        font-size: $font-size-big;
+        p {
+            font-size: $font-size-2;
+        }
+    }
+}
+#login {
+    color: $primary-color;
+    padding-bottom: 6rem;
+    h2 {
+        font-size: $font-size-average;
+        padding: 1rem 0 1.5rem 0;
+    }
+    p {
+        padding-top: 1rem;
+        font-size: $font-size;
+    }
+    span {
+        padding-right: 2rem;
+    }
+    .login-input-btn {
+        padding: 1rem 0;
+    }
+    .checkbox {
+        width: 30px;
+    }
+}
